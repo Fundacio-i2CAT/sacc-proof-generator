@@ -1,0 +1,29 @@
+.Message {
+  text-align: center;
+  margin-top: 30vh;
+}
+
+.SectionTitle {
+  text-align: center;
+}
+
+.ElementContainer {
+  margin-top: 10vh;
+}
+
+.ElementText {
+  text-align: left;
+}
+
+.Button {
+  height: 10vw;
+  margin: 2vw;
+}
+
+.Success {
+  background-color: green;
+  padding: 30px;
+  color: white;
+  text-align: center;
+  margin-top: 30vh;
+}
